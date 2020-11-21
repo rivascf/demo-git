@@ -1,3 +1,3 @@
 # Archivo inicial
 
-Este es archivo de prueba para git
+1. Este es archivo de prueba para git
